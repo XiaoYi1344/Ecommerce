@@ -1,0 +1,9 @@
+{
+  "search_placeholder": "Search for products...",
+  "search_button": "Search",
+  "become_vendor": "Become Vendor",
+  "compare": "Compare",
+  "wishlist": "Wishlist",
+  "cart": "Cart",
+  "wallet_connect": ["Wallet", "Wallet Connect"]
+}

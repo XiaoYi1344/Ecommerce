@@ -1,0 +1,22 @@
+{
+  "title": "Category",
+  "baking_material": "Baking Material",
+  "bread_juice": "Bread and Juice",
+  "clothing_beauty": "Clothing & Beauty",
+  "deals_day": "Deals Of The Day",
+  "fresh_fruit": "Fresh Fruit",
+  "fresh_seafood": "Fresh Seafood",
+  "milk_dairy": "Milks and Dairies",
+  "pet_food": "Pet Foods & Toy",
+  "vegetables": "Vegetables",
+  "wine_drinks": "Wines & Drinks",
+  "packaged": "Packaged",
+  "other": "Uncategorized",
+  "all": "All",
+  "fresh_fruits": "Fresh Fruits",
+  "milks_dairies": "Milks & Dairies",
+  "meats": "Meats",
+
+  "shop_by_category": "Shop by Category",
+  "all_categories": "All Categories"
+}

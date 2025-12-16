@@ -1,0 +1,50 @@
+{
+  "address": "Adresse",
+  "call_us": "Appelez-nous",
+  "email": "Courriel",
+  "Hours": "Horaires",
+
+  "company": "Entreprise",
+  "about_us": "À propos de nous",
+  "delivery_information": "Informations de livraison",
+  "privacy_policy": "Politique de confidentialité",
+  "terms_conditions": "Conditions générales",
+  "contact_us": "Contactez-nous",
+  "support_center": "Centre d'assistance",
+  "career": "Carrières",
+
+  "account": "Compte",
+  "sign_in": "Se connecter",
+  "view_cart": "Voir le panier",
+  "my_wish": "Ma liste de souhaits",
+  "track": "Suivre ma commande",
+  "help": "Ticket d'assistance",
+  "shipping": "Détails de livraison",
+  "compare": "Comparer les produits",
+
+  "corporate": "Entreprise",
+  "vendor": "Devenir vendeur",
+  "affiliate_program": "Programme d'affiliation",
+  "farm_business": "Exploitation agricole",
+  "farm_careers": "Carrières agricoles",
+  "our_suppliers": "Nos fournisseurs",
+  "accessibility": "Accessibilité",
+  "promotions": "Promotions",
+
+  "popular": "Produits populaires",
+  "milk_flavoured": "Lait aromatisé",
+  "butter_margarine": "Beurre et margarine",
+  "eggs_substitutes": "Substituts d'œufs",
+  "marmelades": "Marmelades",
+  "sour_cream_dips": "Crème fraîche et sauces",
+  "tea_kombucha": "Thé et kombucha",
+  "cheese": "Fromage",
+
+  "info": "Superbe modèle de site web pour épicerie",
+  "install_app": "Installer l'application",
+  "app": "Depuis l'App Store ou Google Play",
+  "visa": "Passerelles de paiement sécurisées",
+
+  "follow": "Suivez-nous",
+  "sale": "Jusqu'à 15 % de réduction sur votre premier abonnement"
+}

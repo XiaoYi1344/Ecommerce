@@ -1,0 +1,42 @@
+{
+  "home": "Trang chủ",
+  "about": "Giới thiệu",
+  "shop": "Cửa hàng",
+  "vendors": "Nhà bán hàng",
+  "mega_menu": "Mega Menu",
+  "blog": "Blog",
+  "pages": "Trang",
+  "contact": "Liên hệ",
+
+  "home_classic": "Trang chủ cơ bản",
+  "home_shop": "Trang shop",
+  "home_marketplace": "Trang marketplace",
+
+  "vegetables": "Rau củ",
+  "grocery": "Tạp hóa",
+  "fruits": "Trái cây",
+  "dairy": "Sữa & bơ",
+
+  "all_vendors": "Tất cả nhà bán",
+  "top_vendors": "Top nhà bán",
+  "new_vendors": "Nhà bán mới",
+
+  "featured_products": "Sản phẩm nổi bật",
+  "latest_offers": "Ưu đãi mới nhất",
+  "trending_categories": "Danh mục xu hướng",
+  "collections": "Bộ sưu tập",
+
+  "blog_grid": "Blog dạng lưới",
+  "blog_list": "Blog dạng danh sách",
+  "blog_single": "Bài viết đơn",
+
+  "faq": "FAQ",
+  "terms": "Điều khoản",
+  "privacy": "Chính sách bảo mật",
+  "login_register": "Đăng nhập / Đăng ký",
+
+  "browse_all": "Tất cả danh mục",
+  "browse_all_short": "Danh mục",
+  "24/7_support": "Trung tâm hỗ trợ 24/7",
+  "24_7_support_short": "Hỗ trợ 24/7"
+}

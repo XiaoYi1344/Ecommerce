@@ -1,0 +1,22 @@
+{
+  "title": "Danh mục",
+  "baking_material": "Nguyên liệu làm bánh",
+  "bread_juice": "Bánh mì & nước ép",
+  "clothing_beauty": "Quần áo & làm đẹp",
+  "deals_day": "Ưu đãi trong ngày",
+  "fresh_fruit": "Hoa quả tươi",
+  "fresh_seafood": "Hải sản tươi sống",
+  "milk_dairy": "Sữa & chế phẩm từ sữa",
+  "pet_food": "Thức ăn & đồ chơi thú cưng",
+  "vegetables": "Rau",
+  "wine_drinks": "Rượu & đồ uống",
+  "packaged": "Đồ đóng gói",
+  "other": "Khác",
+  "all": "Tất cả",
+  "fresh_fruits": "Trái cây tươi",
+  "milks_dairies": "Sữa & Bơ",
+  "meats": "Thịt",
+
+  "shop_by_category": "Mua sắm theo danh mục",
+"all_categories": "Tất cả danh mục"
+}

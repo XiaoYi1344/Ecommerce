@@ -1,0 +1,50 @@
+{
+  "address": "Địa chỉ",
+  "call_us": "Gọi cho chúng tôi",
+  "email": "Email",
+  "hours": "Giờ",
+
+  "about_us": "Giới thiệu",
+  "delivery_information": "Thông tin giao hàng",
+  "privacy_policy": "Chính sách bảo mật",
+  "terms_conditions": "Điều khoản & Điều kiện",
+  "contact_us": "Liên hệ với chúng tôi",
+  "support_center": "Trung tâm hỗ trợ",
+  "career": "Tuyển dụng",
+
+  "company": "Công ty",
+  "account": "Tài khoản",
+  "sign_in": "Đăng nhập",
+  "view_cart": "Xem giỏ hàng",
+  "my_wish": "Danh sách mong muốn của tôi",
+  "track": "Theo dõi đơn hàng",
+  "help": "Phiếu hỗ trợ",
+  "shipping": "Chi tiết giao hàng",
+  "compare": "So sánh sản phẩm",
+
+  "corporate": "Doanh nghiệp",
+  "vendor": "Trở thành nhà cung cấp",
+  "affiliate_program": "Chương trình Liên kết",
+  "farm_business": "Doanh nghiệp Nông trại",
+  "farm_careers": "Tuyển dụng Nông trại",
+  "our_suppliers": "Nhà cung cấp của chúng tôi",
+  "accessibility": "Khả năng tiếp cận",
+  "promotions": "Khuyến mãi",
+
+  "popular": "Phổ biến",
+  "milk_flavoured": "Sữa & Hương liệu",
+  "butter_margarine": "Bơ và Bơ thực vật",
+  "eggs_substitutes": "Sản phẩm thay thế Trứng",
+  "marmalades": "Mứt cam",
+  "sour_cream_dips": "Kem chua và nước chấm",
+  "tea_kombucha": "Trà & Kombucha",
+  "cheese": "Phô mai",
+
+  "info": "Mẫu trang web cửa hàng tạp hóa tuyệt vời",
+  "install_app": "Cài đặt ứng dụng",
+  "app": "Từ App Store hoặc Google Play",
+  "visa": "Cổng thanh toán an toàn",
+
+  "follow": "Theo dõi chúng tôi",
+  "sale": "Giảm giá lên đến 15% cho lần đăng ký đầu tiên của bạn"
+}

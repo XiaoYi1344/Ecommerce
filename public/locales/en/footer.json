@@ -1,0 +1,50 @@
+{
+  "address": "Address",
+  "call_us": "Call Us",
+  "email": "Email",
+  "hours": "Hours",
+
+  "company": "Company",
+  "about_us": "About Us",
+  "delivery_information": "Delivery Information",
+  "privacy_policy": "Privacy Policy",
+  "terms_conditions": "Terms & Conditions",
+  "contact_us": "Contact Us",
+  "support_center": "Support Center",
+  "career": "Career",
+
+  "account": "Account",
+  "sign_in": "Sign In",
+  "view_cart": "View Cart",
+  "my_wish": "My Wishlist",
+  "track": "Track My Order",
+  "help": "Help Ticket",
+  "shipping": "Shipping Details",
+  "compare": "Compare Products",
+
+  "corporate": "Corporate",
+  "vendor": "Become a Vendor",
+  "affiliate_program": "Affiliate Program",
+  "farm_business": "Farm Business",
+  "farm_careers": "Farm Careers",
+  "our_suppliers": "Our Suppliers",
+  "accessibility": "Accessibility",
+  "promotions": "Promotions",
+
+  "popular": "Popular",
+  "milk_flavoured": "Milk & Flavoured",
+  "butter_margarine": "Butter and Margarine",
+  "eggs_substitutes": "Eggs Substitutes",
+  "marmalades": "Marmalades",
+  "sour_cream_dips": "Sour Cream and Dips",
+  "tea_kombucha": "Tea & Kombucha",
+  "cheese": "Cheese",
+
+  "info": "Awesome grocery store website template",
+  "install_app": "Install App",
+  "app": "From App Store or Google Play",
+  "visa": "Secured Payment Gateways",
+
+  "follow": "Follow Us",
+  "sale": "Up to 15% discount on your first subscribe"
+}

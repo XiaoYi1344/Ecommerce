@@ -1,0 +1,22 @@
+{
+  "title": "Catégorie",
+  "baking_material": "Ingrédients de cuisson",
+  "bread_juice": "Pain & jus",
+  "clothing_beauty": "Mode & beauté",
+  "deals_day": "Offres du jour",
+  "fresh_fruit": "Fruits frais",
+  "fresh_seafood": "Fruits de mer frais",
+  "milk_dairy": "Lait & produits laitiers",
+  "pet_food": "Nourriture & jouets pour animaux",
+  "vegetables": "Légumes",
+  "wine_drinks": "Vins & boissons",
+  "packaged": "Produits emballés",
+  "other": "Non catégorisé",
+  "all": "Tout",
+  "fresh_fruits": "Fruits frais",
+  "milks_dairies": "Lait & Produits laitiers",
+  "meats": "Viandes",
+
+  "shop_by_category": "Acheter par catégorie",
+  "all_categories": "Toutes les catégories"
+}

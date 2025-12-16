@@ -1,0 +1,9 @@
+{
+  "search_placeholder": "Rechercher des produits...",
+  "search_button": "Rechercher",
+  "become_vendor": "Devenir vendeur",
+  "compare": "Comparer",
+  "wishlist": "Favoris",
+  "cart": "Panier",
+  "wallet_connect": ["Portefeuille", "Connexion Portefeuille"]
+}

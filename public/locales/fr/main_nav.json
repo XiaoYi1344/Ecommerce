@@ -1,0 +1,42 @@
+{
+  "home": "Accueil",
+  "about": "À propos",
+  "shop": "Boutique",
+  "vendors": "Vendeurs",
+  "mega_menu": "Mega Menu",
+  "blog": "Blog",
+  "pages": "Pages",
+  "contact": "Contact",
+
+  "home_classic": "Accueil Classique",
+  "home_shop": "Accueil Shop",
+  "home_marketplace": "Accueil Marketplace",
+
+  "vegetables": "Légumes",
+  "grocery": "Épicerie",
+  "fruits": "Fruits",
+  "dairy": "Produits laitiers",
+
+  "all_vendors": "Tous les vendeurs",
+  "top_vendors": "Top vendeurs",
+  "new_vendors": "Nouveaux vendeurs",
+
+  "featured_products": "Produits vedettes",
+  "latest_offers": "Dernières offres",
+  "trending_categories": "Catégories tendance",
+  "collections": "Collections",
+
+  "blog_grid": "Blog Grille",
+  "blog_list": "Blog Liste",
+  "blog_single": "Article unique",
+
+  "faq": "FAQ",
+  "terms": "Conditions générales",
+  "privacy": "Politique de confidentialité",
+  "login_register": "Connexion / Inscription",
+
+  "browse_all": "Voir toutes les catégories",
+  "browse_all_short": "Catégories",
+  "24/7_support": "Centre d'assistance 24/7",
+  "24_7_support_short": "D'assistance 24/7"
+}

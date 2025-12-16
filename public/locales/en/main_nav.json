@@ -1,0 +1,42 @@
+{
+  "home": "Home",
+  "about": "About",
+  "shop": "Shop",
+  "vendors": "Vendors",
+  "mega_menu": "Mega Menu",
+  "blog": "Blog",
+  "pages": "Pages",
+  "contact": "Contact",
+
+  "home_classic": "Home Classic",
+  "home_shop": "Home Shop",
+  "home_marketplace": "Home Marketplace",
+
+  "vegetables": "Vegetables",
+  "grocery": "Grocery",
+  "fruits": "Fruits",
+  "dairy": "Dairy",
+
+  "all_vendors": "All Vendors",
+  "top_vendors": "Top Vendors",
+  "new_vendors": "New Vendors",
+
+  "featured_products": "Featured Products",
+  "latest_offers": "Latest Offers",
+  "trending_categories": "Trending Categories",
+  "collections": "Collections",
+
+  "blog_grid": "Blog Grid",
+  "blog_list": "Blog List",
+  "blog_single": "Blog Single Post",
+
+  "faq": "FAQ",
+  "terms": "Terms & Conditions",
+  "privacy": "Privacy Policy",
+  "login_register": "Login / Register",
+
+  "browse_all": "Browse All Categories",
+  "browse_all_short": "Categories",
+  "24/7_support": "24/7 Support Center",
+  "24_7_support_short": "24/7 Support"
+}
