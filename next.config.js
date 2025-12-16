@@ -1,6 +1,5 @@
-import type { NextConfig } from 'next';
-
-export const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   reactStrictMode: true,
   productionBrowserSourceMaps: false,
   output: 'standalone',
@@ -13,12 +12,13 @@ export const nextConfig: NextConfig = {
       },
     ],
   },
-  // i18n: {
-  //   locales: ['en', 'vi'],
-  //   defaultLocale: 'en',
-  // },
-
+//   i18n: {
+//     locales: ['en', 'vi'],
+//     defaultLocale: 'en',
+//   },
+  experimental: {
+    appDir: true, // bật App Router
+  },
 };
 
-// Optional: export default for TS module imports
-export default nextConfig;
+module.exports = nextConfig;
